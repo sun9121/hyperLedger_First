@@ -1,0 +1,10 @@
+second trial for save token
+
+after type
+
+git config --global credential.helper cachce
+git push -u origin main
+
+for caching my name and token
+
+and i will do git push after save this
